@@ -1,17 +1,24 @@
 # Hi 👋, I'm Khushi
 
-<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="100%"/>
-
-Khushi is a passionate **Full Stack Developer** from India, working on diverse projects and constantly expanding her knowledge. Feel free to reach out for any **Freelance Projects** or collaborations! 🚀
+<table>
+  <tr>
+    <td>
+      <h3>Khushi is a passionate <strong>Full Stack Developer</strong> from India, working on diverse projects and constantly expanding her knowledge. Feel free to reach out for any <strong>Freelance Projects</strong> or collaborations! 🚀</h3>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="300px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌍 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kain240)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/kain240)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-%23181717.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/kain240)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23000000.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/kain240)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kain240) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/kain240) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23181717.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/kain240) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23000000.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/kain240) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kjain07788@gmail.com)  
 
 ---
